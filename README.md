@@ -116,11 +116,6 @@ git push --set-upstream origin sub2-yura-khalus
 
 ### Connect and clone a repository
 
-```sh
-
-npm install npm@latest -g
-
-```
 
   ***Soon***
 
